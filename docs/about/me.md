@@ -1,7 +1,8 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/6880.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Industrial designer turned Futurist, I'm passionate about transportation, music making, and solving wicked problems through interesting methodologies and technology.
+In Barcelona to make this happen through the Masters in Design for Emergent Futures, hopefully making a long career out of this.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+My Transportation design Instagram account. **[Thumbnail sketches](https://instagram.com/thumbnail_sketches)**
