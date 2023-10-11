@@ -15,8 +15,8 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Landing: term1/Landing/gitclass.md
-          - Bootcamp: term1/01-Bootcamp.md
+          - Landing: term1/Landing/.md
+          - Landing: term1/01-Landing.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
       - Term 2:
@@ -44,12 +44,12 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: burnt umber
-    accent: dark gray
+    primary: deep orange
+    accent: blue gray
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
-    code: Cutive Mono
+    text: Lato
+    code: Pixelify Sans
   icon:
     logo: material/memory
   favicon: images/favicon.svg

@@ -5,6 +5,8 @@ hide:
 
 # Atlas of Weak Signals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+During our Atlas of weak signals activities, we've been working through some exercises that promote the correlation of ideas, and of course, deep conversations among the class about the world, the realities that we all live through, and the implications of changes that the cards on the AoWS suggest.
+
+
 
 ![](../images/AoWS.PNG)
