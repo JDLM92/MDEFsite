@@ -1,5 +1,9 @@
 ## Welcome
 
-![](../images/perezoso.jpg)
+![](docs/images/MDEF IAAC.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello there!
+This is Jorge De la Mora, I'm studying a Master in Design for Emergent Futures at IAAC + Elisava, class of 2023-24.
+I'm a multi-disciplinary designer, with previous work in Industrial design, Innovation, Human Centered Design, and Strategic Foresight.
+
+I'm looking forward to learn IAAC's approach to futures and to be able to execute this into high level design that have a purpose for our journey to preferable futures 🖖
