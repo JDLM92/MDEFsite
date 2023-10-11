@@ -15,9 +15,10 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Firstweek: term1/Firstweek/.md
           - Landing: term1/01-Landing.md
           - AoWS: term1/02-Atlas of Weak Signals.md
+          - Documenting Design: term1/03-Documenting Design.md
+          - Design Studio: term1/04-Design Studio.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
