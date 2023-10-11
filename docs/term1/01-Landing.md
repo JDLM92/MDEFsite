@@ -12,3 +12,4 @@ Last week, we embarked on the Masters for Design in Emergent Futures, and it was
 Our educators wasted no time diving deep. Philosophy sessions stirred introspection and first-person research emphasized the essence of experiential narrative in design. The technical side wasn't neglected; grappling with Git sessions and mastering the art of documenting design marked the week. One week in, and it's evident – this journey will challenge conventions and redefine our horizons. Engage!
 
 
+![](../images/polycam.gif)
