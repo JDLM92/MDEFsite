@@ -13,7 +13,6 @@ Our educators wasted no time diving deep. Philosophy sessions stirred introspect
 
 
 ![](../images/IMG_8536.jpeg)
-<img src="IMG_8536.jpeg" alt="drawing" width="200"/>
 
 
 ![](../images/polycam.gif)
