@@ -32,13 +32,22 @@ Here's where my idea for the Hierarchy of needs that I added later came from.
 ## Full Deck Spread and my additions
 
 Here you can see how the full deck looks when open, I've added a couple of cards to each category:
-| Title                    | Description                                                                                                                                                                   |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Designing for the Anthropocene | Raising the population's hierarchy of needs. Using Abraham Maslow's hierarchy, we can envision societal evolution if basic needs are increasingly met.              |
-| Random Triggers           | - Star Trek: Envisioning a post-scarcity society for ideation beyond collapse-based scenarios.<br>- Latin America: Focusing on this region may yield unique scenario insights. |
-| Areas of Opportunity      | User Experience: Central to identifying opportunities; a critical lens for scenario analysis.                                                                                  |
-| Challenge                 | - System: Consider systems for mapping paths to preferable scenarios.<br>- Experience: Central to the challenge, necessitating a focus on user interaction.                    |
+**Designing for the Anthropocene**
+Raising the population's hierarchy of needs.
+For this card, the thinking behind it is that using Abraham Maslow's famous hierarchy of basic needs, we have an (imperfect) way to see how society might evolve towards a preferable future if the population's basic needs are met in a higher percentage than they are today.
 
+**Random Triggers** 
+Star Trek: Thinking about a future post scarcity society as a trigger for people to ideate with a different mindset than a more collapse-based scenario.
+
+Latin America: Thinking about a specific part of the world might also lead to interesting results when analyzing possible scenarios.
+
+**Areas of opportunity**
+User Experience: Having the user experience as the main point for areas of opportunity might work as a great lens to scenarios things through.
+
+**Challenge**
+System: To think about a system as a way of executing the path for preferable scenarios.
+
+Experience: Again, Experience as the challenge.
 
 ![](../images/Atlas of Weak Signals - Usable Cards.jpg)
 
