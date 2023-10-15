@@ -33,18 +33,22 @@ Here's where my idea for the Hierarchy of needs that I added later came from.
 
 Here you can see how the full deck looks when open, I've added a couple of cards to each category:
 **Designing for the Anthropocene**
+
 Raising the population's hierarchy of needs.
 For this card, the thinking behind it is that using Abraham Maslow's famous hierarchy of basic needs, we have an (imperfect) way to see how society might evolve towards a preferable future if the population's basic needs are met in a higher percentage than they are today.
 
 **Random Triggers** 
+
 Star Trek: Thinking about a future post scarcity society as a trigger for people to ideate with a different mindset than a more collapse-based scenario.
 
 Latin America: Thinking about a specific part of the world might also lead to interesting results when analyzing possible scenarios.
 
 **Areas of opportunity**
+
 User Experience: Having the user experience as the main point for areas of opportunity might work as a great lens to scenarios things through.
 
 **Challenge**
+
 System: To think about a system as a way of executing the path for preferable scenarios.
 
 Experience: Again, Experience as the challenge.
