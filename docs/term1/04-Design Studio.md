@@ -13,6 +13,10 @@ As for design studio, we're diving deep into prototyping, it's roles, and first 
 ![](../images/Diagram.jpeg)
 ![](../images/Roles of Prototyping.png)
 
+
+
+## Prototyping excercise
+
 For one of our first exercises, we shared past projects with our group, and exchanged them to re-think them with a new perspective.
 My fellow student Ever, talked about a project in his architecture degree, where they proposed the famously exclusive University to open a new passageway through a wall that leads to a barrio that usually houses foreign students, and they prefer walking since they are very close.
 Problem is, this university is extremely car-centric in it's approach to entrances and exits, and since these entrances are only for people associated with the university, anyone wanting walk through it cannot, and instead has to walk around the university.
@@ -21,3 +25,7 @@ So in my re-imagined design project, the new gate has a very chaotic, and frankl
 To be fair (....) this is obviously a very exaggerated solution, but I find it would really emphasize the university's policies of only letting alumni and related people inside, unlike universities in Europe, for example.
 
 ![](../images/Burbuja.png)
+
+
+## Reflection
+I think this was a very interesting excercise since we were allowed to create more 'Critical Design' type solutions to other people's projects, which is why I allowed myself to create such aggressive and frankly crazy solution for Everardo's University project. 
