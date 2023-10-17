@@ -52,7 +52,7 @@ theme:
     text: Lato
     code: Pixelify Sans
   icon:
-    logo: ![logo](..images/JDLM icon.png)
+    logo: images/JDLM icon.png
   favicon: images/favicon.svg
   features:
     - instant
