@@ -53,7 +53,7 @@ theme:
     code: Pixelify Sans
   icon:
     logo: material/memory
-  favicon: images/favicon.svg
+  favicon: /images/JDLM icon.svg
   features:
     - instant
     - navigation.expand
