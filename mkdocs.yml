@@ -51,8 +51,7 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Lato
     code: Pixelify Sans
-  icon:
-    logo: images/JDLMicon.svg
+  logo: images/JDLMicon.svg
   favicon: images/favicon.svg
   features:
     - instant
