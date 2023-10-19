@@ -4,7 +4,7 @@ site_description: Master in Design for Emergent Futures
 site_author: Jorge DLM
 copyright: Copyleft 2023 "Jorge De la Mora" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
+site_url: https://jdlm92.github.io/MDEFsite/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
@@ -19,6 +19,7 @@ nav:
           - AoWS: term1/02-Atlas of Weak Signals.md
           - Documenting Design: term1/03-Documenting Design.md
           - Design Studio: term1/04-Design Studio.md
+          - The Machine Paradox: term1/05-The Machine Paradox.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
