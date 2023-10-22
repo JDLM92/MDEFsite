@@ -34,6 +34,6 @@ I think this was a very interesting excercise since we were allowed to create mo
 
 ## Personal RtD Toolbox
 
-![](.../images/MDEFJDLMRtD.jpg)
+![](../images/MDEFJDLMRtD.jpg)
 
 I've downloaded some of my Skills, Tools, People, and places to this RtD Toolbox, but I figured I'll keep updating it as the course keeps going, since I feel like I'm learning so much, including how to finally connect some diverging learning streaks I've made in various subjects into a more tangible project.
