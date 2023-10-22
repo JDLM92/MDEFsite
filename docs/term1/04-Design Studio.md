@@ -29,3 +29,11 @@ To be fair (....) this is obviously a very exaggerated solution, but I find it w
 
 ## Reflection
 I think this was a very interesting excercise since we were allowed to create more 'Critical Design' type solutions to other people's projects, which is why I allowed myself to create such aggressive and frankly crazy solution for Everardo's University project. 
+
+
+
+## Personal RtD Toolbox
+
+![](.../images/MDEFJDLMRtD.jpg)
+
+I've downloaded some of my Skills, Tools, People, and places to this RtD Toolbox, but I figured I'll keep updating it as the course keeps going, since I feel like I'm learning so much, including how to finally connect some diverging learning streaks I've made in various subjects into a more tangible project.
