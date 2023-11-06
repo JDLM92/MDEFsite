@@ -67,7 +67,7 @@ Our final solution is to have an always evolving set of informational outlets to
 
 Here's the video with the reels we posted on the social network, plus a few bonus scenes:
 
-https://youtu.be/fhhr1BJ_tmA?feature=shared
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fhhr1BJ_tmA?si=dMcVO_cd-E1pErRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 (original music by yours truly 😎)
 
