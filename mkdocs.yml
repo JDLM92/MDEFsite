@@ -5,7 +5,7 @@ site_author: Jorge DLM
 copyright: Copyleft 2023 "Jorge De la Mora" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://jdlm92.github.io/MDEFsite/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+repo_url: 'https://github.com/JDLM92/MDEFsite'
 
 
 nav:
@@ -21,11 +21,11 @@ nav:
             - Documenting Design: term1/03-Documenting-Design/Documenting Design.md
           - Design Studio: term1/04-Design-Studio/Design Studio.md
           - The Machine Paradox: 
-            -The Machine Paradox: term1/05-The-Machine-Paradox/01-The Machine Paradox.md
-            -The Almost Useful Machine: term1/05-The-Machine-Paradox/2-The Almost Useful Machine.md
+            - The Machine Paradox: term1/05-The-Machine-Paradox/01-The Machine Paradox.md
+            - The Almost Useful Machine: term1/05-The-Machine-Paradox/2-The Almost Useful Machine.md
           - Living With Your Own Ideas: 
-            -Magic Machines: term1/06-Living-With-Your-Own-Ideas/Living With Your Own Ideas.md
-            -First Person Perspective Research: term1/06-Living-With-Your-Own-Ideas/Living With Your Own Ideas.md
+            - Magic Machines: term1/06-Living-With-Your-Own-Ideas/Living With Your Own Ideas.md
+            - First Person Perspective Research: term1/06-Living-With-Your-Own-Ideas/Living With Your Own Ideas.md
 
 #      - Term 2:
 #         - digi: term1/01-Bootcamp.md
@@ -37,16 +37,12 @@ nav:
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/
+      link: https://instagram.com/thumbnail_sketches
     - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
+      link: "https://www.linkedin.com/in/jorge-de-la-mora-4b44059b/"
     - icon: fontawesome/brands/github
-      link: "https://github.com/"
+      link: "https://github.com/JDLM92/MDEFsite"
 
 theme:
   name: material

@@ -1,6 +1,6 @@
 ## Master in Design for Emergent Futures
 
-![](../images/MDEFIAAC.jpg)
+![](../docs/images/MDEFIAAC.jpg)
 
 Hello there!
 This is Jorge De la Mora, I'm studying the Master of Design for Emergent Futures at IAAC + Elisava, class of 2023-24.
