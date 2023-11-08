@@ -113,7 +113,9 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+
   - md_in_html
+  - admonition
   - codehilite
   - footnotes
   - toc:
@@ -125,27 +127,19 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
-  - pymdownx.keys
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
       base_path: 'docs'
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.escapeall:
-        hardbreak: true
   - attr_list
-  - pymdownx.tabbed:
+  - pymdownx.tabbed
         alternate_style: true
 
 
