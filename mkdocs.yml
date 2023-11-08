@@ -13,17 +13,20 @@ nav:
   - About: about/me.md
   - Master project:
       - Initial ideas: project/project.md
-  - Reflections :
-      - Term 1:
-          - First Week:
+ - Reflections:
+    - Term 1:
+        - First Week:
             - Landing: term1/01-Landing-Week/Landing.md
-          - Atlas of Weak Signals: term1/02-Atlas-of-Weak-Signals/Atlas of Weak Signals.md
+        - Atlas of Weak Signals:
+            - Atlas of Weak Signals: term1/02-Atlas-of-Weak-Signals/Atlas of Weak Signals.md
+        - Documenting Design:
             - Documenting Design: term1/03-Documenting-Design/Documenting Design.md
-          - Design Studio: term1/04-Design-Studio/Design Studio.md
-          - The Machine Paradox: 
+        - Design Studio:
+            - Design Studio: term1/04-Design-Studio/Design Studio.md
+        - The Machine Paradox: 
             - The Machine Paradox: term1/05-The-Machine-Paradox/01-The Machine Paradox.md
             - The Almost Useful Machine: term1/05-The-Machine-Paradox/2-The Almost Useful Machine.md
-          - Living With Your Own Ideas: 
+        - Living With Your Own Ideas: 
             - Magic Machines: term1/06-Living-With-Your-Own-Ideas/Living With Your Own Ideas.md
             - First Person Perspective Research: term1/06-Living-With-Your-Own-Ideas/Living With Your Own Ideas.md
 
