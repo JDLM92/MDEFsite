@@ -1,9 +1,9 @@
 # Replace the text below to customize your site
-site_name: Jorge De la Mora - MDEF & Fab Lab Barcelona
+site_name: Jorge De la Mora | MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Jorge DLM
-copyright: Copyleft 2023 "Jorge De la Mora" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
+copyright: Copyleft 2023 "Jorge De la Mora"
+repo_name: 'JDLM : Github'
 site_url: https://jdlm92.github.io/MDEFsite/
 repo_url: 'https://github.com/JDLM92/MDEFsite'
 
@@ -50,20 +50,18 @@ extra:
 theme:
   name: material
   palette:
-     # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: my-theme
+    - scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
+      primary: black
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: black
   font:
     # See available fonts at https://fonts.google.com/
     text: Lato

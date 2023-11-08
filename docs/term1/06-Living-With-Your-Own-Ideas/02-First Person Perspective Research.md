@@ -28,3 +28,5 @@ I can see myself being very into creating these sort of specific immersive exper
 ### After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?
 It opens up a whole new world for collaboration if done right. I no longer believe this tech might die in the technology adoption chasm, because the minute people see the possibilities that these tech offers, it will no longer be an unreachable tech, but a countdown to when everyone can access experiences that almost no one had access to before.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ClZtVIo5Uhs?si=dEbFE6nsjn5lN2pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
