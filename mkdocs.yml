@@ -140,7 +140,6 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - pymdownx.tabbed
-        alternate_style: true
 
 
 extra_css:
