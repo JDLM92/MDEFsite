@@ -50,9 +50,20 @@ extra:
 theme:
   name: material
   palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: deep orange
-    accent: blue gray
+     # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: my-theme
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: black
   font:
     # See available fonts at https://fonts.google.com/
     text: Lato
@@ -75,6 +86,19 @@ plugins:
   - search
   - git-revision-date-localized:
       fallback_to_build_date: true
+  - glightbox:
+       touchNavigation: true
+       loop: true
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
 
 markdown_extensions:
   - extra
@@ -89,9 +113,7 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-
   - md_in_html
-  - admonition
   - codehilite
   - footnotes
   - toc:
@@ -103,19 +125,28 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
+  - pymdownx.keys
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
       base_path: 'docs'
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.escapeall:
+        hardbreak: true
   - attr_list
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+        alternate_style: true
 
 extra_css:
   - stylesheets/extra.css
