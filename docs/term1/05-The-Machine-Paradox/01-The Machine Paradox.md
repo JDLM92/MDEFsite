@@ -15,7 +15,7 @@ We disassembled a Bose SoundDock from circa 2006, the ones that were used with i
 We also disassembled a Bticino Terraneo video phone, which interestingly enough included a Sony standardized 4" CRT Monitor, same one used for Sony Walkman TVs from the 80's and 90's. 
 
 
-![](../images/speakers.png)
+![](../../images/speakers.png)
 
 **Here's the playlist we used to test the speaker array with a PAM8403 Amp**
 

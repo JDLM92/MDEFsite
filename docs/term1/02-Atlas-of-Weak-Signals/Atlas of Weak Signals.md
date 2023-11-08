@@ -75,17 +75,17 @@ I'm pretty satisfied with the available information for this.
 ## Multi-scalar Design Space
 Here I placed my references in the Multi-scalar framework, being careful to also think about the impact that these ideas might have in possible resulting scenarios.
 
-![](../images/Atlas of Weak Signals - Multiscalar Design Space.jpg)
+![](../../images/Atlas of Weak Signals - Multiscalar Design Space.jpg)
 
 ## Mixed Atlas of Weak Signals
 Using both main signals, I concluded several possible avenues for research and continued ideation in hopes of creating positive scenarios for Human-machine creative collaboration FOR Climate Conscience.
 
-![](../images/Atlas of Weak Signals - Mixed AoWS.jpg)
+![](../../images/Atlas of Weak Signals - Mixed AoWS.jpg)
 
 ## Personalized Design Space
 This is how my design space looks with the possible avenues for these subjects. I believe the interconnectedness of the subjects we are talking about might produce some very interesting results for projects during this master's. (even though there are many more categories I'd love to explore)
 
-![](../images/Atlas of Weak Signals - Personalized AoWS.jpg)
+![](../../images/Atlas of Weak Signals - Personalized AoWS.jpg)
 
 
 

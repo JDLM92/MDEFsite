@@ -48,20 +48,20 @@ Initially our ideas revolved around getting interesting data from waste disposal
 
 After our visit at Urbaser, where we were given a great chat about the current effort that they are making, and some interesting insights into the current system of waste disposal of the city, we were also given the privilege of visiting the green roof of their building, which was an amazing experience, and expecially coming from the man himself, Joan Bosch, who was granted 100k euro from the government to fund the exploration of this very interesting idea for wellbeing and temperature management.
 
-![](../images/ACVerde.png)
-![](../images/EquipoVerde.png)
-![](../images/ParedVerde.png)
+![](../../images/ACVerde.png)
+![](../../images/EquipoVerde.png)
+![](../../images/ParedVerde.png)
 
 In the end, we learned that much of what we thought would be possible, was either already being tested, or simply unfeasable for our timeframe, so we decided to refocus our intervention between two ways of affecting the current system: *1. To better understand and 2. To better educate*
 
 
 Since our intention is to make a ding in the current way of doing things we have to acknowledge the variables that make it what it is, in this case, we learned that 59% of the waste disposed is thrown in the 'resta' bin, meaning more than half the waste thrown away was not separated properly.
 
-![](../images/binsBCN.jpg)
+![](../../images/binsBCN.jpg)
 
 We decided to intervene this system, by learning of what is being done already, and the behavioral nudge that is being implemented falls on the premise that anonymity means people will not care to separate waste properly, but in my personal opinion, having to look over every person disposing of waste is maybe not the best long term solution, so we decided education and public participation was the goal, meaning we would have to find a way to Educate our fellow citizens so they understand why they must try to separate their waste better, instead of imposing more rules to do it.
 
-![](../images/MapaRecogida.png)
+![](../../images/MapaRecogida.png)
 
 Our final solution is to have an always evolving set of informational outlets to keep the public updated on the best way to reduce their impact in the circularity of the city, this set consists of an [Instagram page called BinGo](www.instagram.com/Bingo.Barcelona), where we explain which bin to use for different types of waste in four different languages, aswell as an [infographic focused data outlet](https://tome.app/jdlm-24d/barcelonas-waste-management-system-clom2go2g0ulqmy7cbr94ra6x) where we periodically inform the citizens of Barcelona of the current best way to be informed about the circular system.
 
@@ -71,5 +71,5 @@ Here's the video with the reels we posted on the social network, plus a few bonu
 
 (original music by yours truly 😎)
 
-![](../images/DesignInterventionBinGo.png)
+![](../../images/DesignInterventionBinGo.png)
 

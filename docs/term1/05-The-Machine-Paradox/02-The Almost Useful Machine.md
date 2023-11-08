@@ -19,3 +19,11 @@ But how would a person solve this anxiety producing nightmare?
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-FVbE-c39fo?si=mntwubXTV6Uff8Nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+Behind the scenes:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQru_AlPm_E?si=MqNoZqwVDk8mLFpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
