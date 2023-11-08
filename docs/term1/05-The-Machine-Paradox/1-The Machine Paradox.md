@@ -22,4 +22,3 @@ We also disassembled a Bticino Terraneo video phone, which interestingly enough 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7gK40Yp4hNPMvByEEFMn9I?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-

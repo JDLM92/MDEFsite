@@ -3,16 +3,6 @@ hide:
     - toc
 ---
 
-
-# Living With Your Own Ideas
-
-This class has definitely felt different than the other ones.
-
-![](../images/PrototypeCuriosity.gif)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ClZtVIo5Uhs?si=dEbFE6nsjn5lN2pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 ## Using a Meta Quest 2 to prototype Immersive song learning with the current mainstream headset.
 
 

@@ -15,16 +15,21 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Landing: term1/01-Landing.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
-          - Documenting Design: term1/03-Documenting Design.md
-          - Design Studio: term1/04-Design Studio.md
-          - The Machine Paradox: term1/05-The Machine Paradox.md
-          - Living With Your Own Ideas: term1/06-Living With Your Own Ideas.md
+          - First Week:
+            - Landing: term1/01-Landing-Week/Landing.md
+          - Atlas of Weak Signals: term1/02-Atlas-of-Weak-Signals/Atlas of Weak Signals.md
+            - Documenting Design: term1/03-Documenting-Design/Documenting Design.md
+          - Design Studio: term1/04-Design-Studio/Design Studio.md
+          - The Machine Paradox: 
+            -The Machine Paradox: term1/05-The-Machine-Paradox/01-The Machine Paradox.md
+            -The Almost Useful Machine: term1/05-The-Machine-Paradox/2-The Almost Useful Machine.md
+          - Living With Your Own Ideas: 
+            -Magic Machines: term1/06-Living-With-Your-Own-Ideas/Living With Your Own Ideas.md
+            -First Person Perspective Research: term1/06-Living-With-Your-Own-Ideas/Living With Your Own Ideas.md
 
-      - Term 2:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
+#      - Term 2:
+#         - digi: term1/01-Bootcamp.md
+#        - studio: term1/01-Bootcamp.md
 
 
 
