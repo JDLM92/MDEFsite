@@ -29,6 +29,15 @@ nav:
       - Living With Your Own Ideas: 
           - Magic Machines: term1/06-Living-With-Your-Own-Ideas/01-Magic Machines.md
           - First Person Perspective Research: term1/06-Living-With-Your-Own-Ideas/02-First Person Perspective Research.md
+      - Biology Zero:
+          - Biology Zero: term1/07-Biology-Zero/01-Bio Zero.md
+      - Agriculture Zero:
+          - Agriculture Zero: term1/08-Agriculture-Zero/01-Agri Zero.md
+      - Design with Others: 
+          - Design with Others: term1/09-Design-With-Others/01-Design with others.md
+      - Extended Intelligences:
+          - Extended Intelligences: term1/10-Extended-Intelligences/01-Extended Intelligences.md
+
 
 #      - Term 2:
 #         - digi: term1/01-Bootcamp.md
@@ -51,13 +60,13 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: indigo
+      primary: deep orange
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: black
+      primary: blue gray
       accent: indigo
       toggle:
         icon: material/brightness-4
