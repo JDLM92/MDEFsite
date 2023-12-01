@@ -15,8 +15,8 @@ We also made Laurel essential oil, which was super fun to work on!
 
 
 
-![](../images/Agri & Bio Zero/Valldaura.jpeg)
-![](../images/Agri & Bio Zero/Valldaura2.jpeg)
-![](../images/Agri & Bio Zero/Valldaura3.jpeg)
-![](../images/Agri & Bio Zero/Valldaura4.jpeg)
+![](../../Agri & Bio Zero/Valldaura.jpeg)
+![](../../Agri & Bio Zero/Valldaura2.jpeg)
+![](../../Agri & Bio Zero/Valldaura3.jpeg)
+![](../../Agri & Bio Zero/Valldaura4.jpeg)
 

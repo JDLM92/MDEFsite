@@ -12,11 +12,11 @@ Through this exploration we also cultivated samples in agar, and looked at them 
 
 
 
-![](../images/Agri & Bio Zero/Bio1.jpeg)
-![](../images/Agri & Bio Zero/Bio2.jpeg)
-![](../images/Agri & Bio Zero/Bio3.jpeg)
-![](../images/Agri & Bio Zero/Micro1.jpeg)
-![](../images/Agri & Bio Zero/Micro2.jpeg)
+![](../../Agri & Bio Zero/Bio1.jpeg)
+![](../../Agri & Bio Zero/Bio2.jpeg)
+![](../../Agri & Bio Zero/Bio3.jpeg)
+![](../../Agri & Bio Zero/Micro1.jpeg)
+![](../../Agri & Bio Zero/Micro2.jpeg)
 
 
 

@@ -15,9 +15,9 @@ The course's emphasis on the interconnectedness of things and the frameworks pro
 
 
 
-![](../images/Design With Others/Bot1.jpeg)
-![](../images/Design With Others/Coop1.jpeg)
-![](../images/Design With Others/Coop2.jpeg)
-![](../images/Design With Others/Designwithothers.jpeg)
-![](../images/Design With Others/LaBorda1.jpeg)
-![](../images/Design With Others/LaBorda2.jpeg)
+![](../../Design With Others/Bot1.jpeg)
+![](../../Design With Others/Coop1.jpeg)
+![](../../Design With Others/Coop2.jpeg)
+![](../../Design With Others/Designwithothers.jpeg)
+![](../../Design With Others/LaBorda1.jpeg)
+![](../../Design With Others/LaBorda2.jpeg)
