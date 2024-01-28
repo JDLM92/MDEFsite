@@ -31,4 +31,4 @@ Open Reflection on the Tool: The Reflection Tree is more than just a scoring sys
 
 
 
-In conclusion, the Reflection Tree has been a very good tool in shaping my approach to my thesis project. It's guided me to consider the broader implications of my design choices and how they align with the principles of distributed design. The exercise has been enlightening, challenging me to strive for balance across different dimensions of my project, and ensuring that my work is not just innovative, but also socially and environmentally responsible.
+To conclude, the Reflection Tree has been a very good tool in shaping my approach to my thesis project. It's guided me to consider the broader implications of my design choices and how they align with the principles of distributed design. The exercise has been enlightening, challenging me to strive for balance across different dimensions of my project, and ensuring that my work is not just innovative, but also socially and environmentally responsible.
