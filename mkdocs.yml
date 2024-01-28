@@ -41,9 +41,21 @@ nav:
           - Design Dialogues: term1/11-Design-Dialogues/01-Design Dialogues.md
           
 
-#      - Term 2:
-#         - digi: term1/01-Bootcamp.md
-#        - studio: term1/01-Bootcamp.md
+     - Term 2:
+      - Design Studio 2: 
+          - term2/01-Design-Studio-2/01-Design Studio 2.md
+      - Designing for a State of Climate Emergency: 
+          - term2/02-State-of-Climate-Emergency/02-Designing for a State of Climate Emergency.md
+      - Communicating Ideas: 
+          - term2/03-Communicating-Ideas/03-Communicating Ideas.md
+       - Future Talk: 
+          - term2/04-Future-Talk/04-Future Talk.md
+       - Digital Prototyping: 
+          - term2/05-Digital-Prototyping/05-Digital Prototyping.md
+      - Intro to BioMaterials: 
+          - term2/06-Intro-to-Biomaterials/06-Intro to BioMaterials.md
+       - Fair Futures: 
+          - term2/07-Fair-Futures/07-Fair Futures.md
 
 
 
