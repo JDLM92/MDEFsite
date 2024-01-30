@@ -25,7 +25,7 @@ hide:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhhr1BJ_tmA?si=dMcVO_cd-E1pErRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Instagram page called BinGo](www.instagram.com/Bingo.Barcelona)
+[Instagram page: BinGo](www.instagram.com/Bingo.Barcelona)
 
 [infographic](https://tome.app/jdlm-24d/barcelonas-waste-management-system-clom2go2g0ulqmy7cbr94ra6x)
 
