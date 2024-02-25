@@ -51,6 +51,29 @@ Finally, the Community at large represents the end-users, whose daily lives are 
 
 In summary, each category of the stakeholder radar has been chosen not only for their potential impact on the project but also for their ability to be impacted by the project's outcomes. This radar facilitates a holistic view, ensuring "TransitNet" remains a well-informed, inclusive, and feasible venture that can adapt to the complexities of transforming urban transportation systems.
 
+## IDEO purpose wheel
+
+Applying the IDEO Purpose Wheel to the "TransitNet" project can provide a structured approach to defining its core purpose and guiding its strategic direction.
+
+Center (The Why): TransitNet is dedicated to enhancing urban transportation through AI, aiming to make it more sustainable, efficient, and equitable. The project's heart lies in its commitment to leveraging advanced technology for the betterment of city living, giving communities the tools to advocate for change and shape the policies that will define their future mobility.
+
+Inner Ring (The How): TransitNet's approach is threefold:
+
+People & Culture: We'll work closely with the community and cultural leaders to ensure that the project's outcomes align with societal needs and values.
+Product & Service Offerings: We'll provide AI-based analysis and futuristic scenarios to guide urban transportation planning and implementation.
+Brand & Communication: We'll establish TransitNet as a forward-thinking initiative that drives conversation and action around urban mobility.
+Middle Ring (The What): The tangible elements of TransitNet include:
+
+Offerings: AI-generated data models and visualizations, speculative future scenarios, and strategic planning tools for transportation.
+Touchpoints: Engaging with TransitNet will be through interactive digital platforms, community-focused events, and collaborations with urban stakeholders.
+Channels: Insights and developments from TransitNet will be shared through policy papers, digital media, and partnerships with civic organizations.
+Outer Ring (The Impact): TransitNet aims for broad-reaching impacts:
+
+Community Impact: Empower residents with insights to demand better transportation options.
+Market Impact: Encourage the adoption of AI in urban planning and transportation sectors, driving the market towards sustainable practices.
+Societal Impact: Influence policy and infrastructure decisions to align with sustainable development goals, affecting positive societal change.
+
+
 ## Tandem Project
 
 Reflecting on my interview with Carlotta, I got a really good grasp of her thoughtful approach towards sustainable energy and design. It's clear she's deeply invested in finding practical, tech-driven solutions for the current energy challenges.
