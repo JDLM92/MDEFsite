@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Digital Prototyping
+# Intro to Digital Prototyping
 
 Thinking back on our Digital Prototyping class, I've got a much clearer picture of what we can do in the Fab Lab. The class wasn't just about the rules of the lab, but it was more about getting to know the machines we've got on hand and what they can really do.
 
@@ -14,3 +14,4 @@ Laser Cutters: First off, the laser cutters are pretty cool. They can cut and en
 Resin Printers: The resin printers were something else. They use liquid polymer that gets solidified with light. This means you can get really detailed and smooth finishes on whatever you're printing. It's ideal for complex designs where you need a lot of detail, more than what you might get with regular 3D printers.
 
 So, in a nutshell, the Digital Prototyping class has given me a good foundation in understanding these digital tools and how they can be used in creative and practical ways in our projects. It's all about staying up-to-date with tech in design, and this class was a solid step in that direction.
+
