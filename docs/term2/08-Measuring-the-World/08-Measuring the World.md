@@ -52,3 +52,7 @@ Our venture into sunlight and well-being exemplifies the power of interdisciplin
 This seminar underscored the vast potential and responsibility that comes with accessing and utilizing open data. It reminded me of the importance of questioning data ownership, sovereignty, and the ethical considerations in designing solutions around energy consumption or urban navigation. As we stand on the brink of the AI age, where information's value parallels that of tangible resources, these questions become even more critical.
 
 The "Measuring the World" seminar was not just an academic exercise; it was an exploration of how data shapes our understanding of the world and our ability to design for a better future. 
+
+
+<iframe src="https://drive.google.com/file/d/lad3UtFqEmVMK0AU6EmnykqW79iccBz94
+height="489"/preview" width="640" height="480" allow="autoplay"></iframe>
