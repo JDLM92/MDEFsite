@@ -32,7 +32,8 @@ The pivot from an initial focus on architects and builders to a more community-c
 ![](../../images/Fair Futures/FairFutures16.png)
 ![](../../images/Fair Futures/FairFutures15.png)
 
-The resulting project project, with its focus on rewarding eco-friendly practices through EcoTokens, smart thermostats for efficient temperature regulation, and the use of DAOs for community governance, exemplifies a forward-thinking solution to environmental challenges. This initiative underscores the importance of transparent communication, democratic decision-making, and clear rules encoded in smart contracts to ensure fairness and goal alignment.
+The resulting project, with its focus on rewarding eco-friendly practices through EcoTokens, smart thermostats for efficient temperature regulation, and the use of DAOs for community governance, exemplifies a forward-thinking solution to environmental challenges. This initiative underscores the importance of transparent communication, democratic decision-making, and clear rules encoded in smart contracts to ensure fairness and goal alignment.
+
 ![](../../images/Fair Futures/FairFutures8.png)
 
 
@@ -41,13 +42,16 @@ The resulting project project, with its focus on rewarding eco-friendly practice
 
 The EcoToken Community Initiative (ETCI) is an innovative approach to tackling climate change, particularly focusing on reducing energy inefficiency in residential heating and cooling systems. This initiative is crucial as it addresses a significant contributor to carbon emissions and aims to foster a sense of responsibility and community engagement toward more sustainable energy practices. By leveraging blockchain technology for transparency and accountability, and integrating smart devices for energy management, ETCI offers a comprehensive solution that not only incentivizes individuals but also empowers communities to make impactful decisions regarding their environmental footprint.
 
-Challenges Addressed by ETCI
+### Challenges Addressed by ETCI
+
 ETCI confronts the urgent issue of climate change by focusing on energy inefficiency in homes, a notable source of environmental degradation. The initiative seeks to overcome the hurdles of engaging communities in sustainable practices and integrating cutting-edge technology in an accessible and incentivizing manner. These challenges are met with a unique blend of technology and community governance, ensuring participation and positive behavioral changes toward energy consumption.
 
-Solutions Proposed by ETCI
+### Solutions Proposed by ETCI
+
 The multi-phased solution proposed by ETCI combines blockchain technology with smart thermostats and community-driven governance mechanisms. By rewarding eco-friendly practices with EcoTokens, the initiative encourages individuals to adopt more sustainable energy habits. Blockchain ensures data integrity and transparency, essential for building trust among participants. Moreover, the formation of local DAOs allows communities to democratically decide on sustainable projects, fostering a collaborative approach to environmental stewardship.
 
-Communication, Governance, and Rules
+### Communication, Governance, and Rules
+
 ETCI's governance structure is rooted in DAOs, promoting democratic and transparent decision-making within communities. Communication is secured and decentralized through blockchain technology, ensuring that all stakeholders can engage openly. The rules, embedded in smart contracts, dictate the mechanics of EcoToken distribution, temperature data recording, and execution of community decisions, ensuring adherence to the initiative's goals.
 
 
