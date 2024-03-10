@@ -92,3 +92,32 @@ All said and done, it was a cool chat. Carlotta's got some interesting ideas, es
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5q97TFOIMYo?si=rcyeseDg91mECo_7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Brand Values and further reflection on Carlotta's Project
+
+Reflecting on the evolution of Carlotta's project journey in the Master in Design for Emergent Futures (MDEF) program, it's evident that her focus on energy consumption and behavioral nudges towards improved decision-making is both groundbreaking and essential for our times. The innovative approach of integrating design and technology to foster sustainable behavioral change deeply aligns with the MDEF philosophy of using design as a tool for positive transformation.
+
+**Evolving Through Microchallenges**
+
+Carlotta's engagement in microchallenges, especially in her collaboration with Oliver, exemplifies the dynamic nature of the MDEF program. Their project's goal to combine hardware and software to influence energy consumption habits represents a significant stride towards addressing environmental concerns through design. Their method, focusing on the user experience and aiming to not only inform but also motivate and drive proactive behavior, highlights the importance of design in creating meaningful and lasting change.
+
+**Communicating Ideas and Brand Story**
+
+The emphasis Carlotta places on narrative and brand identity is crucial in making complex ideas accessible and compelling. Her process of defining her project's values and identity underscores a deep consideration of how her work connects with and impacts its audience. This strategic approach to communication reflects Carlotta's dedication not only to innovative solutions but also to ensuring those solutions resonate on a broader scale.
+
+**Behavioral Nudges for Sustainable Decision Making**
+
+Adopting behavioral nudges to encourage sustainable decision-making is a testament to Carlotta's understanding of the nuanced ways design and technology can guide positive changes in behavior. Her project showcases the potential of design-led interventions to promote mindful energy usage, demonstrating a keen grasp of the psychological underpinnings that influence human actions and the environment.
+
+**Reflecting on the Journey**
+
+Carlotta's journey through the MDEF program illustrates her commitment to addressing critical issues like energy consumption through thoughtful and innovative design solutions. Her adaptability and willingness to explore new ideas and respond to challenges are indicative of a mature design practice capable of making significant contributions to pressing global concerns.
+
+**Looking Ahead**
+
+As Carlotta's project and the broader themes of the MDEF program continue to evolve, the potential for design to shape a more sustainable future becomes increasingly clear. The intersection of behavioral science, technology, and design presents vast opportunities for creating impactful solutions that encourage responsible interaction with our environment. Carlotta's focus on energy consumption and behavioral nudges stands as a powerful example of how design can lead to a more mindful and sustainable world.
+
+This reflection, incorporating additional insights from recent classes and interactions within the MDEF program, highlights the growth and development of Carlotta's project. Her work not only addresses the technical aspects of energy consumption but also considers the broader implications of design as a tool for social and environmental change, reinforcing the transformative potential of the MDEF program and its participants.
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0Bvtzp9olUKsqJmPt0LNyrrexC9drUJz2gltJj0meCuinLT935FISDCuzYIx3eEpyBoFS-YfCyeEo/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
