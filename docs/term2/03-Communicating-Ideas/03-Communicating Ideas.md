@@ -123,27 +123,3 @@ This reflection, incorporating additional insights from recent classes and inter
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0Bvtzp9olUKsqJmPt0LNyrrexC9drUJz2gltJj0meCuinLT935FISDCuzYIx3eEpyBoFS-YfCyeEo/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-
-
-
-
-*Preferable Futures: Mobility*
-
-
-Reflecting on our work to establish PreferableFutures: Mobility, it's clear we've set a course to impact how people experience mobility across various environments. This effort isn't just about creating new ways to move around; it's about thinking deeply on how those methods can improve lives and connect communities.
-
-Choosing the name PreferableFutures: Mobility was a deliberate decision to underscore our commitment to enhancing future mobility solutions. This name signifies our aim to look ahead and consider the broad possibilities for making mobility better for everyone.
-
-Our mission to revolutionize mobility using AI and immersive technology emphasizes practical, actionable change. We're looking to use these tools not as ends in themselves but as means to engage with communities and understand their needs better.
-
-The vision for a future where mobility seamlessly serves everyone, irrespective of their location, reflects our goal to make substantive, positive changes in how people access and experience transit options.
-
-Stating our purpose has brought clarity to our objective: making advanced mobility concepts accessible and engaging for a wider audience. This is about breaking down barriers and ensuring that future mobility systems are built with input from those they'll serve.
-
-Our "We Are" statement is straightforward: we're a team focused on making future transit better through technology and community engagement. This is about using our skills to bring people together and explore the best paths forward for mobility.
-
-Exploring the archetypes of Creator, Everyman, and Sage helped us understand the multifaceted nature of our project. The Creator drives our innovation, the Everyman ensures our solutions are grounded and inclusive, and the Sage guides our use of data and insights for wise decision-making.
-
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2CUHjjFzk_JyPW1Jmx9wNYdbBPt2gHTK3Nydanxpkjr4Vup5cNF44Fc8eaOgrv1vZ-S4HjvkUdUk7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
