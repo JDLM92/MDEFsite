@@ -26,3 +26,6 @@ The intervention has profoundly impacted my approach to developing future immers
 ### Conclusion
 
 In essence, this intervention served as a practical application of my situated epistemology, reinforcing my commitment to designing immersive experiences that are not only technologically advanced but also deeply human-centered, accessible, and inclusive. It was a powerful reminder that innovative design lies in embracing vulnerabilities, engaging with the world, and continually reflecting on our position within it.
+
+
+![](../../images/Design Studio/IMG_1205.jpeg)
