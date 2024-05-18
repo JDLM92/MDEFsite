@@ -39,3 +39,46 @@ Lastly, the conversations about decolonization and alternative notions of well-b
 ## Conclusion
 
 In conclusion, this design ethics class has been a transformative experience for me. It has given me a deeper appreciation of the ethical dimensions of design and technology. I feel more aware of the complex interplay between design, human values, and societal development. This awareness will guide me in creating more ethical, inclusive, and sustainable designs. The class has inspired me to think deeply about my role as a designer and the impact of my work, reminding me that ethical design is about making the world a better place. This reflection aligns perfectly with the MDEF program’s vision of using design to tackle the wicked problems of our time, fostering innovation, sustainability, and ethical responsibility.
+
+
+
+
+## Self-Assessment on Technology and Design Reflection
+
+### Numerical Mark: 8/10
+
+### Personal Reflection
+
+Over the course of this design ethics class, I have developed a deeper understanding of the intricate relationship between technology, design, and ethical considerations. My self-assessment reflects both my learning journey and the outcomes achieved, which I believe warrant a mark of 8 out of 10. Here’s a detailed reflection on why I’ve given myself this score:
+
+### Strengths and Achievements
+
+1. **Grasp of Multistability (9/10)**
+   - I have developed a solid understanding of Don Ihde’s concept of multistability, recognizing the fluidity and adaptability of technology in different contexts. This concept has broadened my perspective on how designs can be interpreted and utilized in multiple ways, leading to a more inclusive and versatile approach to design.
+
+2. **Critical Analysis of the Jevons Paradox (8/10)**
+   - I have critically engaged with the Jevons Paradox, challenging my assumptions about efficiency and sustainability. This paradox has informed my approach to designing for sustainability, ensuring that I consider potential rebound effects in my design processes.
+
+3. **Application of Ethical Theories (7/10)**
+   - My understanding and application of ethical theories such as Kant’s Categorical Imperative and utilitarianism have improved. While I can effectively analyze design decisions through these frameworks, I recognize the need for further practice to seamlessly integrate these theories into all aspects of my design work.
+
+4. **Engagement with Virtue and Care Ethics (8/10)**
+   - I have embraced the principles of virtue and care ethics, focusing on character development and the well-being of others in my design practice. These perspectives have reinforced my commitment to creating empathetic and human-centered designs.
+
+5. **Exploration of Decolonization and Alternative Well-Being (8/10)**
+   - I have broadened my perspective by exploring decolonization and alternative notions of well-being, such as Sumak Kawsay. This exploration has deepened my appreciation for culturally sensitive and sustainable design practices.
+
+### Areas for Improvement
+
+1. **Integrating Ethical Frameworks More Seamlessly (7/10)**
+   - While I have a good grasp of various ethical frameworks, I need to work on integrating these principles more fluidly into my design process. This includes balancing conflicting interests and making nuanced decisions that consider long-term impacts.
+
+2. **Practical Application of Theoretical Knowledge (7/10)**
+   - Translating theoretical knowledge into practical design interventions remains a challenge. I need to focus on applying what I’ve learned in real-world scenarios to better bridge the gap between theory and practice.
+
+3. **Enhancing Reflective Practice (8/10)**
+   - Although I engage in reflective practice, there is room for improvement in consistently documenting and analyzing my reflections. This will help me better understand my design choices and their ethical implications over time.
+
+### Conclusion
+
+Overall, I feel confident in the knowledge and skills I’ve acquired through this design ethics class. The mark of 8 out of 10 reflects my solid understanding and application of ethical principles, while also acknowledging the areas where I can continue to grow and improve. My journey in design ethics is ongoing, and I am committed to further developing my capabilities to create designs that are not only innovative but also ethically sound and culturally sensitive.
