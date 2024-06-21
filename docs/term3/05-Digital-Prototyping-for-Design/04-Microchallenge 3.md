@@ -61,7 +61,7 @@ The project demonstrated the importance of iterative development, user-centered 
 
 Creating an immersive voting experience based on the potential impact of each political party's electoral program was a daring but rewarding experiment. The technology and insights gained from this project will likely play a crucial role in the development of my final project. This journey has not only provided me with practical skills but also deepened my understanding of how immersive technologies can influence and reflect public opinion on urban mobility futures.
 
-![microchallenge3 3](../../images/Varias/microchallenge%203%203.jpeg)
+![microchallenge3](../../images/Varias/microchallenge%203.jpeg)
 
 **Conclusion:**
 Using VR to achieve the goal of creating an experience based on feedback was an interesting take for sure, and although it was different from other classmates' projects, it was an incredible dive into the world of coding and getting consistent results, especially for a project done in less than 5 days. Microchallenge 3, the Portals project, showcased the potential of VR in engaging users and gathering valuable insights, highlighting the importance of immersive technologies in shaping the future of urban mobility.
