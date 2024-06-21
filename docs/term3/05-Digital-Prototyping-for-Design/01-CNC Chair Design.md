@@ -3,10 +3,9 @@ hide:
     - toc
 ---
 
-Reflection on Designing a CNC-Cut Semi-Leaning Chair with Carlotta Hylkema
+### Designing a CNC Chair
 Over the course of several months, Carlotta Hylkema and I undertook a rewarding journey to design and fabricate a chair for our MDEF classroom. Our aim was to create a low, semi-leaning chair using CNC milling technology, seamlessly blending traditional craftsmanship with modern digital fabrication techniques. The result was a chair featuring two highly stylized side pieces, bridged by joint X cut pieces, with seating composed of crisscrossed nylon webbing akin to seatbelt material.
 
-The Four F's of Active Reviewing
 ### Facts: 
 Our project began with a series of brainstorming sessions, exploring various chair designs with a focus on low chairs and rocking chairs. After sketching our ideas on paper, we transitioned to digital models using Gravity Sketch and Rhino. This iterative process was influenced by constraints such as available materials, CNC milling requirements, and structural support needs.
 
