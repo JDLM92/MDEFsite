@@ -7,6 +7,11 @@ hide:
 
 In Module 5 of our digital prototyping class, we built upon the knowledge and technologies from Module 4. Working independently, I explored using a flexible sensor to create a musical controller that generated audiovisual outputs based on pressure inputs. By using Wekinator and Max/MSP, I developed a system where the pressure detected by the sensor influenced dynamic musical and visual experiences.
 
+
+![flex 5](docs/images/Varias/flex%205.jpeg)
+![flex 6](docs/images/Varias/flex%206.jpeg)
+![flex 1](docs/images/Varias/Flex%201.jpeg)
+
 ##### Facts:
 For this project, I used the flexible sensor made in Module 4, constructed from conductive fabric, felt, and conductive tape. The aim was to detect pressure changes and translate them into musical outputs. The sensor was connected to a Barduino board, and I trained a machine learning model in Wekinator to process the pressure data. The model's output values, based on the pressure applied, were then sent to Max/MSP via OSC messaging. In Max/MSP, these values controlled various musical parameters such as volume, pitch, and effects, creating a responsive and interactive musical controller.
 
@@ -21,3 +26,6 @@ In future projects, I plan to further explore the use of flexible sensors with m
 
 ### Project Summary
 In this module, we used a system using a flexible pressure sensor as a musical controller. By training a machine learning model in Wekinator and using Max/MSP to process the data, I created an interactive experience where pressure inputs influenced musical parameters and generated corresponding visual effects, showcasing the potential of flexible sensors in digital design.
+
+![flex 2](docs/images/Varias/flex%202.jpeg)
+![flex 3](docs/images/Varias/flex%203.jpeg)
