@@ -3,9 +3,9 @@ hide:
     - toc
 ---
 
-![microchallenge3 1](docs/images/Varias/microchallenge%203%201.jpeg)
-![microchallenge3 2](docs/images/Varias/microchallenge%203%202.jpeg)
-![microchallenge3 3](docs/images/Varias/microchallenge%203%203.jpeg)
+![microchallenge3 1](../../images/Varias/microchallenge%203%201.jpeg)
+![microchallenge3 2](../../images/Varias/microchallenge%203%202.jpeg)
+![microchallenge3 3](../../images/Varias/microchallenge%203%203.jpeg)
 
 
 
@@ -14,8 +14,8 @@ hide:
 **Introduction:**
 Microchallenge 3 was centered on creating "Portals," an immersive virtual reality experience that showcased various potential futures for Plaza Espanya. The experience was based on the electoral promises of political parties during the week of Catalan elections, displaying both current and hypothetical transformations influenced by urban mobility proposals.
 
-![microchallenge3 4](docs/images/Varias/microchallenge%203%204.jpeg)
-![microchallenge3 5](docs/images/Varias/microchallenge%203%205.jpeg)
+![microchallenge3 4](../../images/Varias/microchallenge%203%204.jpeg)
+![microchallenge3 5](../../images/Varias/microchallenge%203%205.jpeg)
 
 
 
@@ -49,10 +49,10 @@ The development of the Portals project involved multiple phases, from ideation t
 
 #### Scenario Examples:
 
-![microchallenge3 6](docs/images/Varias/microchallenge%203%206.jpeg)
-![microchallenge3 7](docs/images/Varias/microchallenge%203%207.jpeg)
-![microchallenge3 8](docs/images/Varias/microchallenge%203%208.jpeg)
-![microchallenge3 9](docs/images/Varias/microchallenge%203%209.jpeg)
+![microchallenge3 6](../../images/Varias/microchallenge%203%206.jpeg)
+![microchallenge3 7](../../images/Varias/microchallenge%203%207.jpeg)
+![microchallenge3 8](../../images/Varias/microchallenge%203%208.jpeg)
+![microchallenge3 9](../../images/Varias/microchallenge%203%209.jpeg)
 
 **Outcome and Reflections:**
 The voting results from our classmates revealed interesting preferences and insights into the scenarios. We received a lot of detailed feedback on why people voted the way they did. Many users pointed out specific details they didn't like, which influenced their choice. For instance, one local classmate mentioned that seeing certain buildings transformed made her dislike some representations, even though she appreciated other aspects of the scenarios. These insights were invaluable, offering a glimpse into collective perceptions and priorities regarding urban mobility.
@@ -61,7 +61,7 @@ The project demonstrated the importance of iterative development, user-centered 
 
 Creating an immersive voting experience based on the potential impact of each political party's electoral program was a daring but rewarding experiment. The technology and insights gained from this project will likely play a crucial role in the development of my final project. This journey has not only provided me with practical skills but also deepened my understanding of how immersive technologies can influence and reflect public opinion on urban mobility futures.
 
-![microchallenge3 3](docs/images/Varias/microchallenge%203%203.jpeg)
+![microchallenge3 3](../../images/Varias/microchallenge%203%203.jpeg)
 
 **Conclusion:**
 Using VR to achieve the goal of creating an experience based on feedback was an interesting take for sure, and although it was different from other classmates' projects, it was an incredible dive into the world of coding and getting consistent results, especially for a project done in less than 5 days. Microchallenge 3, the Portals project, showcased the potential of VR in engaging users and gathering valuable insights, highlighting the importance of immersive technologies in shaping the future of urban mobility.

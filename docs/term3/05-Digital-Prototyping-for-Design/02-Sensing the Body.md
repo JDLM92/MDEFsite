@@ -23,8 +23,8 @@ This module was both challenging and enlightening. I felt a mix of excitement an
 ##### Findings:
 Through this module, I learned the importance of precise calibration and iterative testing in developing functional prototypes. The hands-on experience with Wekinator and Max/MSP was invaluable, highlighting the potential of machine learning in processing sensor data. Additionally, the project underscored the significance of diverse datasets for accurate and reliable machine learning models.
 
-![max](docs/images/Varias/max.jpeg)
-![sensor](docs/images/Varias/sensor.PNG)
+![max](../../images/Varias/max.jpg)
+![sensor](../../images/Varias/sensor.PNG)
 
 ##### Future:
 
@@ -33,4 +33,4 @@ Looking ahead, I plan to apply the lessons learned from this project to future e
 ### Reflection Summary
 This module was a valuable exercise in integrating sensor technology with machine learning to create interactive outputs. It reinforced the importance of iterative design, careful calibration, and the potential of flexible sensors in various applications. The experience was both educational and inspiring, opening new avenues for future projects.
 
-![flex 4](docs/images/Varias/flex%204.jpeg)
+![flex 4](../../images/Varias/flex%204.png)
