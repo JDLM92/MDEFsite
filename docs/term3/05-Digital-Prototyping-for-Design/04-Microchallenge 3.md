@@ -14,8 +14,8 @@ hide:
 **Introduction:**
 Microchallenge 3 was centered on creating "Portals," an immersive virtual reality experience that showcased various potential futures for Plaza Espanya. The experience was based on the electoral promises of political parties during the week of Catalan elections, displaying both current and hypothetical transformations influenced by urban mobility proposals.
 
-![microchallenge3 4](../../images/Varias/microchallenge%203%204.jpeg)
-![microchallenge3 5](../../images/Varias/microchallenge%203%205.jpeg)
+![microchallenge3 4](../../images/Varias/microchallenge%203%204.jpg)
+![microchallenge3 5](../../images/Varias/microchallenge%203%205.png)
 
 
 
@@ -49,10 +49,10 @@ The development of the Portals project involved multiple phases, from ideation t
 
 #### Scenario Examples:
 
-![microchallenge3 6](../../images/Varias/microchallenge%203%206.jpeg)
-![microchallenge3 7](../../images/Varias/microchallenge%203%207.jpeg)
-![microchallenge3 8](../../images/Varias/microchallenge%203%208.jpeg)
-![microchallenge3 9](../../images/Varias/microchallenge%203%209.jpeg)
+![microchallenge3 6](../../images/Varias/microchallenge%203%206.png)
+![microchallenge3 7](../../images/Varias/microchallenge%203%207png.png)
+![microchallenge3 8](../../images/Varias/microchallenge%203%208.png)
+![microchallenge3 9](../../images/Varias/microchallenge%203%209.png)
 
 **Outcome and Reflections:**
 The voting results from our classmates revealed interesting preferences and insights into the scenarios. We received a lot of detailed feedback on why people voted the way they did. Many users pointed out specific details they didn't like, which influenced their choice. For instance, one local classmate mentioned that seeing certain buildings transformed made her dislike some representations, even though she appreciated other aspects of the scenarios. These insights were invaluable, offering a glimpse into collective perceptions and priorities regarding urban mobility.
