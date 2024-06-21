@@ -3,7 +3,6 @@ hide:
     - toc
 ---
 
-### Reflection on Module 5: Extended Bodies
 
 In Module 5 of our digital prototyping class, we built upon the knowledge and technologies from Module 4. Working independently, I explored using a flexible sensor to create a musical controller that generated audiovisual outputs based on pressure inputs. By using Wekinator and Max/MSP, I developed a system where the pressure detected by the sensor influenced dynamic musical and visual experiences.
 

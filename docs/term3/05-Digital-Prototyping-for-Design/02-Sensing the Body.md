@@ -7,7 +7,6 @@ hide:
 
 
 
-### Reflection on Module 4: Sensing the Body
 
 In Module 4 of our digital prototyping class, we delved into the basics of machine learning programs, creating datasets, and training machine learning algorithms using Wekinator. Our goal was to connect these algorithms to physical sensors to produce meaningful outputs based on the data received. This exploration provided a fascinating insight into the intersection of sensor technology and machine learning, offering a unique challenge and a break from my usual thesis work.
 
