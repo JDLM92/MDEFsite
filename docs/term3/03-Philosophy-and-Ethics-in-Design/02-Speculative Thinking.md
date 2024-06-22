@@ -8,6 +8,9 @@ hide:
 
 Reflecting on our recent class discussions, I find a powerful resonance between the concepts we explored and the ideas I've encountered in my journey as a designer and futurist. My exposure to speculative fiction and scientific media has led me to similar realizations that are now being reinforced by philosophy-heavy classes. The works of Carl Sagan, Donna Haraway, and Lynn Margulis offer complementary perspectives that help construct a more complete vision of our world and our place within it.
 
+
+![](../../images/Varias/Helen%20Torres%20MDEF%202.jpg)
+
 ### Collective Thinking and Multi-Species Coexistence
 
 The idea that "nobody thinks alone" is a fundamental insight I've encountered repeatedly. Haraway emphasizes that we must move beyond individualism to understand our roles within a multi-species world. This is mirrored in Sagan’s reflections on Earth as a fragile, shared home. Watching "Cosmos" and reading "Pale Blue Dot," I was struck by Sagan’s emphasis on our interconnectedness and the need for collective care. These insights have shaped my approach to design, pushing me to consider the broader ecological and social systems in which my interventions will exist.
@@ -38,3 +41,5 @@ These realizations have fundamentally altered my approach to design. I now see m
 
 Reflecting on these themes, I see how my past knowledge and recent learnings form a comprehensive vision of the world. This synergy between scientific inquiry and ecological mindfulness enriches my understanding and guides my work in the MDEF program. By integrating these diverse perspectives, I aim to create meaningful interventions that promote the collective well-being of all life forms on our planet. This approach not only aligns with my personal journey but also represents a holistic and inclusive way of thinking about and designing for the future.
 
+
+![](../../images/Varias/Helen%20Torres%20MDEF.jpg)
