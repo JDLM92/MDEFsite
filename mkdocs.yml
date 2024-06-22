@@ -12,7 +12,7 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Master project:
-      - InflectionPoints mobility: project/project.md
+      - Developing the project: project/project.md
       - InflectionPoints mobility: project/InflectionPointsmobility.md
   - Reflections:
     - Term 1:
